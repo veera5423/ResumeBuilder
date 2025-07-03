@@ -1,0 +1,49 @@
+{<-> Personal details section,->
+    (Fullname:
+email:
+Phonenumber:
+Role:
+linkedin:
+github:)}...>
+
+{<->-----------Education,<->
+(
+    Institue Name:,
+    Degree:,
+    Branch:,
+    Score:per||cgpa,
+    Duration::from: to:
+(+)Add Button
+)
+
+}
+{
+    <->---Skills--<->
+    (
+        programming/languages:
+        Librabries/Frameworks:
+        Tools/Platforms:
+        Database;
+        (+)Add Button
+    )
+}<-->
+{
+    <-->OpenSource<->
+    (
+        ProjectName:
+        Description:
+        (+)Add Button
+    )
+}
+{
+    <--> Certifications<-->
+    section1::Section2
+}
+{
+    <--> Achievements<-->&&Awards
+    (
+        section1
+    )
+    &&Others
+
+}
