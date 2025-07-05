@@ -26,10 +26,13 @@ ResumeBuilder is a web application that helps users create professional, ATS-fri
 ## 📸 Screenshots
 
 > Add your screenshots in the `assets/` folder and update the paths below.
+ ![Screenshot 2025-07-05 204550](https://github.com/user-attachments/assets/de30bfc0-820f-476d-baa5-2b8a0e1fee69)
+![Screenshot 2025-07-05 205035](https://github.com/user-attachments/assets/b41df780-100f-4ce7-a90e-cffed699db4d)
 
-| Form Page                | Resume PDF View                |
-| ------------------------ | ------------------------------ |
-| ![Form](assets/form.png) | ![PDF](assets/pdf_preview.png) |
+
+| Form Page                                                                                                               | Resume PDF View                                                              |
+| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------                      |
+| ![Form]![Screenshot 2025-07-05 204550](https://github.com/user-attachments/assets/82c8a6f5-0432-4919-9845-6543de19ce25)| ![PDF]![Screenshot 2025-07-05 205101](https://github.com/user-attachments/assets/83ecd642-6608-48f6-8c52-ce510ecdffd6) |
 
 ---
 
